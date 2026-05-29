@@ -92,7 +92,7 @@ I’m always learning and exploring new tools, especially in the Web development
 - Anime, manga, and gaming
 - Competitive FPS and casual story-driven games
 - Reading manga and occasionally binge-watching anime
-- Talking about tech, dev ideas, and world-building concepts
+- Talking about tech and dev ideas
 
 </details>
 
