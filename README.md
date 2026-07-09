@@ -14,11 +14,12 @@ Web Development Enthusiast | Forever Learner
 ## ⭐ Quick Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Backend-Express-000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/DB-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Frontend-React.JS-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Frontend-Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Frontend-TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Backend-Express.JS-000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Backend-Nest.JS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Backend-Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff" />
 </p>
 
 ---
@@ -27,8 +28,7 @@ Web Development Enthusiast | Forever Learner
   <summary><strong>🙋‍♂️ About Me</strong></summary>
   <br>
 
-I'm **Yoga Rizky**, a full-stack web developer who enjoys turning ideas into real, working digital experiences.  
-I focus mostly on **frontend development**, but I'm comfortable across the entire stack.
+I'm a full-stack web developer with 2 years professional experience and 5 years web dev experience, who enjoys turning ideas into real, working digital experiences.
 
 I’m always learning and exploring new tools, especially in the Web development and digital technologies.
 
@@ -42,9 +42,7 @@ I’m always learning and exploring new tools, especially in the Web development
 
 - Building web based application
 - Focus on creating clean, functional, and intuitive user experiences
-- Work with **React**, **Next.js**, **Express**, and **Node.js**
-- Exploring DevOps fundamentals and cloud workflows
-- Planning to dive deeper into **Go** for backend development
+- Work with **React.js**, **Next.js**, **Tanstack**, **Express.js**, **Nest.js**, and **Go**
 
 </details>
 
@@ -58,25 +56,26 @@ I’m always learning and exploring new tools, especially in the Web development
 
 - React.js
 - Next.js
+- Tanstack
 - Express.js
-- Node.js
+- Nest.js
+- Go
 
 ### 🔹 Experienced With
 
-- NestJS
+- Vue.js
 - Bun
-- AdonisJS
 - Laravel
 
 ### 🔹 Databases
 
 - MongoDB
 - PostgreSQL
+- MySQLs
 - Redis
 
 ### 🔹 Currently Exploring
 
-- GitHub Actions
 - Jenkins
 - Monitoring tools
 - UI/UX fundamentals
@@ -104,7 +103,7 @@ I’m always learning and exploring new tools, especially in the Web development
 
 - **Email:** yogarizky51@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/yogarizkyputra
-- **Portfolio:** Coming soon
+- **Portfolio:** www.yogarizky.my.id
 
 </details>
 
