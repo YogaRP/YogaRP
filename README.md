@@ -76,9 +76,8 @@ I’m always learning and exploring new tools, especially in the Web development
 
 ### 🔹 Currently Exploring
 
-- Jenkins
-- Monitoring tools
-- UI/UX fundamentals
+- Advance Backend
+- DevOps
 
 </details>
 
@@ -89,8 +88,8 @@ I’m always learning and exploring new tools, especially in the Web development
   <br>
 
 - Anime, manga, and gaming
-- Competitive FPS and casual story-driven games
-- Reading manga and occasionally binge-watching anime
+- Competitive Game and casual story-driven games
+- Reading manga and watching anime
 - Talking about tech and dev ideas
 
 </details>
